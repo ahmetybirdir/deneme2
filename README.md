@@ -1,6 +1,6 @@
 # deneme2
 ## projenin amacı
-** kalın kelime** <br/>
+**kalın kelime** <br/>
 *italik* 
 
 `git status`
